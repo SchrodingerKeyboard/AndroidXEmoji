@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/emoji_click_bg.xml" value="0.1" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/emoji_del_bg.xml" value="0.1765" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/emoji_group_select_bg.xml" value="0.1" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/emoji_selected_bg.xml" value="0.1" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/ic_add.xml" value="0.105" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/ic_del.xml" value="0.1" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/ic_keyboard.xml" value="0.124" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/ic_launcher_background.xml" value="0.105" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/ic_voice.xml" value="0.124" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/drawable/voice_keyboard_selector.xml" value="0.105" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/layout/activity_main.xml" value="0.22780797101449277" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/layout/emoji_group_item_layout.xml" value="0.2513586956521739" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/layout/emoji_list_item_layout.xml" value="0.264" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/layout/emoji_panel_adapter_layout.xml" value="0.2845227062094532" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/layout/emoji_panel_layout.xml" value="0.11382113821138211" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/app/src/main/res/layout/emoji_popup_window_layout.xml" value="0.2006340579710145" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/emoji/src/main/res/drawable/emoji_click_bg.xml" value="0.1" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/emoji/src/main/res/layout/emoji_group_item_layout.xml" value="0.18840579710144928" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/emoji/src/main/res/layout/emoji_list_item_layout.xml" value="0.18840579710144928" />
+        <entry key="..\:/code/gitee/emoji/androidx-emoji/emoji/src/main/res/layout/emoji_popup_window_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
